@@ -1,9 +1,9 @@
 {
-  "name": "SNE-eRequest System",
+  "name": "Homie-eRequest System",
   "short_name": "eREQ",
-  "description": "SNE Electronic Request System - ระบบรับเรื่อง/ยื่นคำขออิเล็กทรอนิกส์",
-  "start_url": "/eDS/APPS/eREQ/CMP01/index.html",
-  "scope": "/eDS/APPS/eREQ/CMP01/",
+  "description": "Homie Electronic Request System - ระบบรับเรื่อง/ยื่นคำขออิเล็กทรอนิกส์",
+  "start_url": "/HMIE/APPS/eREQ/HMI01/index.html",
+  "scope": "/HMIE/APPS/eREQ/HMI01/",
   "display": "standalone",
   "orientation": "portrait-primary",
   "background_color": "#054d31",
@@ -25,7 +25,7 @@
   "shortcuts": [
     {
       "name": "เปิดระบบ eREQ",
-      "url": "/eDS/APPS/eREQ/CMP01/index.html",
+      "url": "/HMIE/APPS/eREQ/HMI01/index.html",
       "icons": [{ "src": "icons/icon-96.png", "sizes": "96x96" }]
     }
   ]
