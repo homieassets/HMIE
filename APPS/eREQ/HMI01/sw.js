@@ -1,6 +1,6 @@
 /* if update code into index.html then change version this code */
 
-const CACHE = 'eREQ-v1';
+const CACHE = 'eREQ-v1.1';
 /*-------------------------------------------------------------*/
 const SHELL = ['./', './index.html', './manifest.json', './icons/icon-192.png', './icons/icon-512.png'];
 
